@@ -18,7 +18,7 @@ Quiz Master is a trivia game developed with Unity. Players answer different ques
 
   * This allows developers to quickly create new question assets as ScriptableObjects without writing additional code—just select Create → Quiz Question and fill in the details.
 
-/* A great template to build your own quiz game → Everything is set up, so you can focus on adding and customizing your own questions.*/
+** A great template to build your own quiz game → Everything is set up, so you can focus on adding and customizing your own questions.**
 
 🎮 How to Play
 
