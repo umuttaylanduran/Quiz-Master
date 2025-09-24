@@ -30,4 +30,4 @@ Quiz Master is a trivia game developed with Unity. Players answer different ques
 
 📌 Note
 
- *This project was originally developed earlier and is now being published on GitHub.
+ * This project was originally developed earlier and is now being published on GitHub.
