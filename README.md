@@ -1,4 +1,4 @@
-Quiz Master
+
 
 Quiz Master is a trivia game developed with Unity. Players answer different questions, and their score increases based on correct answers.
 
